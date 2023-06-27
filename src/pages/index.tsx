@@ -24,14 +24,14 @@ export default function Home()
                     margin: "auto 10vw"
                 }}>
                     Make sure to set your wallet in testnet mode;<br/>
-                    We are playing with founds here!
+                    We are playing with funds here!
                 </b>
                 <Button
                 onClick={() => window.location.reload()}
                 style={{
                     margin: "auto 10vw"
                 }}
-                >Refersh page</Button>
+                >Refresh page</Button>
             </div>
         )
     }

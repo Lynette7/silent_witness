@@ -1,0 +1,3 @@
+[submodule "silent-witness"]
+	path = silent-witness
+	url = git@github.com:Agneskoinange/silent-witness.git

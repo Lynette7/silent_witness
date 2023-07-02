@@ -1,5 +1,18 @@
-# hello-pluts-react
+# Silent witness
 
-this is a starter template for a [`plu-ts`](https://github.com/HarmonicLabs/plu-ts) + [`mesh`](https://github.com/MeshJS/mesh) project;
 
-to complete this project refer to the[`Hello plu-ts` example project in the `plu-ts` documentation](https://pluts.harmoniclabs.tech/docs/examples/Hello%20World)
+### Clone app
+```
+git clone git@github.com:Agneskoinange/silent-witness.git
+```
+
+### Install dependencies
+```
+npm install
+```
+
+### To start the app locally
+
+```
+npm start
+```
